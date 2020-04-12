@@ -5,4 +5,6 @@
 #
 时间2020年4月-2020年6月
 #
-主要使用语言为python, go, lua 欢迎监督
+主要使用语言为python3.7, go, lua
+#
+数据库mysql 5.7, 缓存数据库 redis 5.0，全文检索引擎Lucene。
